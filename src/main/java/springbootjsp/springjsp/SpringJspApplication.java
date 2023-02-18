@@ -10,5 +10,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class SpringJspApplication{
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJspApplication.class, args);
+		//Test Data
 	}
 }
